@@ -1,5 +1,5 @@
 # Continuous_Information_Gain
-Data, Results and Code associated with the paper "A Continuous Information Gain Measure to Find the Most Discriminatory Problems for AI Benchmarking", presented at CEC 2020
+Data, Results and Code associated with the paper "A Continuous Information Gain Measure to Find the Most Discriminatory Problems for AI Benchmarking", presented at WCCI/CEC 2020.
 
 
 
