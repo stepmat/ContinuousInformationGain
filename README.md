@@ -1,4 +1,4 @@
-# Continuous_Information_Gain
+# Continuous Information Gain (GVGAI)
 Data, Results and Code associated with the paper "A Continuous Information Gain Measure to Find the Most Discriminatory Problems for AI Benchmarking", presented at WCCI/CEC 2020.
 
 
